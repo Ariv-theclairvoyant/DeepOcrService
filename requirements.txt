@@ -1,6 +1,6 @@
 Cython
+easydict
 flask
 flask-cors
 numpy
 opencv-python
-tensorflow-gpu
